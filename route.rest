@@ -1,0 +1,32 @@
+GET http://localhost:3000/subscribers
+
+
+###
+
+GET http://localhost:3000/subscribers/617e42a3f3854289091cffe0
+
+###
+
+
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+    "name" : " practise name ",
+    "subscribedToChannel": "lets see"
+    
+}
+
+###
+DELETE http://localhost:3000/subscribers/617e42abf3854289091cffe2
+
+
+###
+PATCH http://localhost:3000/subscribers/
+617e42a3f3854289091cffe0
+
+Content-Type: application/json
+{
+    "name": "name"
+    
+}
