@@ -1,0 +1,18 @@
+✔ What is API
+    1) Application Program Interface
+    2) Contract Provided by one piece of software to another
+    3) Structured request and response
+    
+    
+✔ What is REST
+    1) Representational State Transfer
+    2) Architecture Style for designing network applications
+    3) Relies on stateless , client-server protocol , almost always HTTP.
+    
+ 
+✔ HTTP methods
+    1) GET --> Read
+    2) POST --> Add
+    3) PUT --> Update
+    4) DELETE
+    
